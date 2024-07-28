@@ -12,6 +12,7 @@ Asseturi si Pluginuri third party utilizate:
 -Paragon Twinblast
 -LandscapePro
 -Async Loading Screen
+-Nice Settings Menu
 
 Programare joc: Unreal Engine Blueprints
 
